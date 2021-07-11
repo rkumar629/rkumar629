@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahule   
+- 👋 Hi, I’m Rahul   
 -A  student  with keen interest in the field of Data Science and Software Development.Always willing to learn new Technology and work with goal oriented team.
 Currently I am doint Master in Computer Application working as student and Learning Machine Learning in my free time.
 - 
